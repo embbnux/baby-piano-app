@@ -1,4 +1,4 @@
-# Baby Piano: Fun Magic Piano
+# PianoSprout: Fun Magic Piano
 
 **Play Beautiful Music in Seconds – No Experience Needed!**
 
@@ -8,7 +8,7 @@
 
 ## 🎹 About the App
 
-**Baby Piano** is not just a toy; it is a magic musical instrument designed for everyone. Whether you are a parent looking for a fun educational app for your child, or an adult looking for a relaxing way to unwind, Baby Piano lets you play beautiful melodies instantly.
+**PianoSprout** is not just a toy; it is a magic musical instrument designed for everyone. Whether you are a parent looking for a fun educational app for your child, or an adult looking for a relaxing way to unwind, Baby Piano lets you play beautiful melodies instantly.
 
 Built with the latest **SwiftUI** technology and powered by the **AudioKit** audio engine, we bring you a realistic and responsive musical experience right in your pocket.
 
@@ -44,14 +44,14 @@ Forget about complex rhythm and timing!
 
 Have questions, feedback, or feature requests? We'd love to hear from you!
 
-* [Create issue](https://github.com/embbnux/baby-piano-app/issues) in the repository
+* [Create issue](https://github.com/embbnux/pianosprout-app/issues) in the repository
 
 ---
 
 ## 🔒 Privacy Policy
 
-We care about your privacy. **Baby Piano** does not collect any personal user data. It is a safe environment for children and adults alike.
-[Read full Privacy Policy](https://piano.i52x.com/privacy/privacy.en.txt)
+We care about your privacy. **PianoSprout** does not collect any personal user data. It is a safe environment for children and adults alike.
+[Read full Privacy Policy](https://embbnux.github.io/pianosprout-app/privacy.en)
 
 ---
 
