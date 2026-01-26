@@ -1,6 +1,6 @@
----
 layout: default
 hero_image: assets/screenshot.png
+permalink: /
 ---
 <nav class="language-nav">
   <strong>English</strong>
