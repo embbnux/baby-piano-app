@@ -5,14 +5,14 @@ permalink: /
 ---
 <nav class="language-nav">
   <strong>English</strong>
-  <a href="README.zh.md">简体中文</a>
-  <a href="README.zh-Han.md">繁體中文</a>
-  <a href="README.fr.md">Français</a>
-  <a href="README.de.md">Deutsch</a>
-  <a href="README.jp.md">日本語</a>
-  <a href="README.ko.md">한국어</a>
-  <a href="README.pt.md">Português</a>
-  <a href="README.es.md">Español</a>
+  <a href="README.zh.html">简体中文</a>
+  <a href="README.zh-Han.html">繁體中文</a>
+  <a href="README.fr.html">Français</a>
+  <a href="README.de.html">Deutsch</a>
+  <a href="README.jp.html">日本語</a>
+  <a href="README.ko.html">한국어</a>
+  <a href="README.pt.html">Português</a>
+  <a href="README.es.html">Español</a>
 </nav>
 
 # PianoSprout App
