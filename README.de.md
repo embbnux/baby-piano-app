@@ -1,4 +1,17 @@
-[English](README.md) | [简体中文](README.zh.md) | [繁體中文](README.zh-Han.md) | [Français](README.fr.md) | **Deutsch** | [日本語](README.jp.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Español](README.es.md)
+---
+hero_image: assets/screenshot.png
+---
+<nav class="language-nav">
+  <a href="README.md">English</a>
+  <a href="README.zh.md">简体中文</a>
+  <a href="README.zh-Han.md">繁體中文</a>
+  <a href="README.fr.md">Français</a>
+  <strong>Deutsch</strong>
+  <a href="README.jp.md">日本語</a>
+  <a href="README.ko.md">한국어</a>
+  <a href="README.pt.md">Português</a>
+  <a href="README.es.md">Español</a>
+</nav>
 
 # PianoSprout App
 
@@ -8,7 +21,7 @@ Installieren Sie die App im [App Store](https://apps.apple.com/app/1519974306)
 
 Feedback bitte über ein [Issue](https://github.com/embbnux/pianosprout-app/issues/new). **Geben Sie keine sensiblen Daten im Issue an**.
 
-![PianoSprout Screenshots](./assets/screenshot.png)
+
 
 ## Beschreibung
 
